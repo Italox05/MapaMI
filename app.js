@@ -68,14 +68,14 @@ var puntos = [
         lon: -77.107418,
         titulo: "Aeropuerto",
         descripcion: "Recuerdo estar demasiado nervioso por verte. Fue tan lindo verte con el globito, corriendo hacia mí y abrazarnos y besarnos en medio de todo el mundo. Fue algo muy único, mi amor. En ese momento, me olvidé de todo lo que me pasaba y solo fui feliz.",
-        imagen: "imgs/aeropuerto.jpeg"
+        imagen: "imgs/aeropuerto.jpg"
     },
     {
         lat: -12.1303448,
         lon: -76.9812035,
         titulo: "McDonalds",
         descripcion: "Sabía que te haría ilusión ir y quería que vivieras eso conmigo. Fuimos y tuvimos a nuestras segundas hijitas, asdkjkjasd. Me diste tu yogurt y pregunté para cambiar los peluchitos. Valió completamente la pena y me regalaste tu yogurt.",
-        imagen: "imgs/mcDonads.jpeg"
+        imagen: "imgs/mcDonads.jpg"
     },
     {
         lat: -12.1304628,
@@ -89,112 +89,112 @@ var puntos = [
         lon: -76.925615,
         titulo: "Taxi de la primera Cita",
         descripcion: "La primera vez que salimos, te recogí en el trabajo y fuimos a tener nuestra primera cita. Pero antes te regalé a Melita, y también recuerdo que me contaste cómo conseguiste la entrada al concierto de Feid (Recuerdo hasta el lugar donde estábamos cuando me lo contaste).",
-        imagen: "/imgs/taxiPrimeraCita.jpeg"
+        imagen: "/imgs/taxiPrimeraCita.jpg"
     },
     {
         lat: -12.0994512,
         lon: -77.0022327,
         titulo: "Primera cita en Riu",
         descripcion: "Aquí fue nuestra primera cita. Recuerdo lo linda que te veías y lo nervioso que estaba, pero me sentí muy cómodo contigo también. Me contabas de tus cositas, probé el ramen y luego de eso caminamos muchísimo. Pasamos por el Mass, donde el cajero me dijo mano jdkaksja. Ese día fue el inicio de algo muy grande y muy hermoso, mi Meli. Estoy muy feliz de haberte pedido esa cita y que hayas aceptado.",
-        imagen: "imgs/riu.jpeg"
+        imagen: "imgs/riu.jpg"
     },
     {
         lat: -12.149583,
         lon: -77.0208293,
         titulo: "Miniso",
         descripcion: "La primera vez que te acompañé a un Miniso, después de haber estado en la playa y habernos abrazado creo que por primera vez. También recuerdo que, cuando bajamos a la playa, me hablaste sobre las bugambilias y lo mucho que te gustaban. Esa vez fue muy linda.",
-        imagen: "imgs/miniso.jpeg"
+        imagen: "imgs/miniso.jpg"
     },
     {
         lat: -12.138197,
         lon: -76.987112,
         titulo: "Loma Amarilla",
         descripcion: "Recuerdo regalarte dos flores aquí, pero lo que más recuerdo es ver un montón de gatitos y tu toda linda, te acercabas a acariciarlos y verlos. Me encanta que seas tan dulce con todo y con los animalitos. Te ves muy linda y en serio me encanta tu forma tal dulce y linda de ser.",
-        imagen: "imgs/lomaAmarilla.jpeg"
+        imagen: "imgs/lomaAmarilla.jpg"
     },
     {
         lat: -12.129876,
         lon: -76.994239,
         titulo: "Parque",
         descripcion: "La última vez que nos vimos la primera que viajé, tú estabas muy hermosa, como siempre y recuerdo como me miraban tus ojitos lindos. Me regalaste la pulsera de Kuromi, que no me he quitado desde que la tengo, el globo de Steve, la toallita para la cara y, sobre todo, tu cartita, que me gustó en serio mucho. Me hiciste sentir muy especial con todo eso, amor. Me hizo muy feliz que te hayas tomado el tiempo para darme todo eso.",
-        imagen: "imgs/Parquedemicasa.jpeg"
+        imagen: "imgs/Parquedemicasa.jpg"
     },
     {
         lat: -12.1456173,
         lon: -77.0125283,
         titulo: "Taxi a Dizco",
         descripcion: "La foto de aquí es muy especial, es una de mis favoritas. Contigo, Meli, soy muy feliz, y se nota por mi cara, asdjkasd. Estar contigo me hace sentir completo, mi amor, y no pude pedir una novia mejor <3.",
-        imagen: "imgs/TaxiDizco.jpeg"
+        imagen: "imgs/TaxiDizco.jpg"
     },
     {
         lat: -12.142872,
         lon: -77.026245,
         titulo: "Taxi del Aeropuerto",
         descripcion: "En el taxi que todo eran besos y besos, creo que hasta nos besamos mas de lo que hablamos pero fue uno de los momentos mas bonitos que estuvimos juntos. Sí, el punto en el mapa es exactamente donde nos empezamos a tomar las fotos.",
-        imagen: "imgs/TaxiAeropuerto.jpeg"
+        imagen: "imgs/TaxiAeropuerto.jpg"
     },
     {
-        "lat": -12.129597,
-        "lon": -76.983457,
-        "titulo": "Casa de Luchito",
-        "descripcion": "Esto también me parece importante porque es un voto de confianza muy grande. Conociste a mis amigos más cercanos, a quienes conozco desde hace más de 10 años. Quiero que sepas que eso te hace especial, Meli. Siento que podemos lograr mucho juntos, y quiero que así sea. Te adoro mi amor, en serio. <3",
-        "imagen": "imgs/casaLuchito.jpeg"
+        lat: -12.129597,
+        lon: -76.983457,
+        titulo: "Casa de Luchito",
+        descripcion: "Esto también me parece importante porque es un voto de confianza muy grande. Conociste a mis amigos más cercanos, a quienes conozco desde hace más de 10 años. Quiero que sepas que eso te hace especial, Meli. Siento que podemos lograr mucho juntos, y quiero que así sea. Te adoro mi amor, en serio. <3",
+        imagen: "imgs/casaLuchito.jpg"
     },
     {
-        "lat": -12.126072,
-        "lon": -77.037591,
-        "titulo": "Noche en la costa verde",
-        "descripcion": "Este fue el día que me mostraste mucha música, comimos chocotejas y estuvimos hablando mientras veíamos el mar, algo que me encanta. También fue el día en que te puse una florcita en el cabello y pensé: Wow, qué bien le quedan las flores, tengo que regalarle mil más. <3 (Tenía muchas pero muchas ganas de besarte). El punto está exactamente donde nos sentamos esa vez.",
-        "imagen": "imgs/nocheCostaVerde.png"
+        lat: -12.126072,
+        lon: -77.037591,
+        titulo: "Noche en la costa verde",
+        descripcion: "Este fue el día que me mostraste mucha música, comimos chocotejas y estuvimos hablando mientras veíamos el mar, algo que me encanta. También fue el día en que te puse una florcita en el cabello y pensé: Wow, qué bien le quedan las flores, tengo que regalarle mil más. <3 (Tenía muchas pero muchas ganas de besarte). El punto está exactamente donde nos sentamos esa vez.",
+        imagen: "imgs/nocheCostaVerde.png"
     },
     {
-        "lat": -12.1222302,
-        "lon": -77.0293832,
-        "titulo": "Exposición Hello Kitty",
-        "descripcion": "Otro momento de la date más bonita que hemos tenido. En ese momento, te vi como una chiquita muy feliz, ilusionada y sorprendida por estar ahí admirando todo el arte de algo que te gusta muchísimo, y yo amé estar ahí contigo, siempre besándote y abrazándote. Eres una chiquita muy dulce y cariñosa, me gustan muchas cosas de ti.",
-        "imagen": "imgs/expoHelloKitty.jpeg"
+        lat: -12.1222302,
+        lon: -77.0293832,
+        titulo: "Exposición Hello Kitty",
+        descripcion: "Otro momento de la date más bonita que hemos tenido. En ese momento, te vi como una chiquita muy feliz, ilusionada y sorprendida por estar ahí admirando todo el arte de algo que te gusta muchísimo, y yo amé estar ahí contigo, siempre besándote y abrazándote. Eres una chiquita muy dulce y cariñosa, me gustan muchas cosas de ti.",
+        imagen: "imgs/expoHelloKitty.jpg"
     },
     {
-        "lat": -12.1209904,
-        "lon": -77.0330691,
-        "titulo": "Noodles",
-        "descripcion": "Me gustó mucho ir a ese lugar, es que todo contigo me gusta, especialmente pasar mucho tiempo juntos. También creo que ha sido lo más picante que he comido, pero estaba riquísimo, djaskjkasd. A mí me gustó mucho, y el heladito de después también. Te quiero, Melita. Cada momento contigo es hermoso. <3",
-        "imagen": "imgs/noodles.jpeg"
+        lat: -12.1209904,
+        lon: -77.0330691,
+        titulo: "Noodles",
+        descripcion: "Me gustó mucho ir a ese lugar, es que todo contigo me gusta, especialmente pasar mucho tiempo juntos. También creo que ha sido lo más picante que he comido, pero estaba riquísimo, djaskjkasd. A mí me gustó mucho, y el heladito de después también. Te quiero, Melita. Cada momento contigo es hermoso. <3",
+        imagen: "imgs/noodles.jpg"
     },
     {
-        "lat": -12.129430,
-        "lon": -77.036263,
-        "titulo": "Playa y Cremolada",
-        "descripcion": "Aquí estuvimos en la que yo considero la date más linda de todas. Estuvimos sentaditos en un pasto que salió de la nada, asjdkkjasd. Comimos raspadilla, hablamos y caminamos, nos besamos y abrazamos mucho. Fue, en serio, un día lindo y especial <3.",
-        "imagen": "imgs/playa.jpeg"
+        lat: -12.129430,
+        lon: -77.036263,
+        titulo: "Playa y Cremolada",
+        descripcion: "Aquí estuvimos en la que yo considero la date más linda de todas. Estuvimos sentaditos en un pasto que salió de la nada, asjdkkjasd. Comimos raspadilla, hablamos y caminamos, nos besamos y abrazamos mucho. Fue, en serio, un día lindo y especial <3.",
+        imagen: "imgs/playa.jpg"
     },
     {
-        "lat": -12.1364463,
-        "lon": -77.0174336,
-        "titulo": "Dizco",
-        "descripcion": "Mi amor, aquí nos conocimos. Sé que fue un poco raro y rápido sadjkjkasdk, pero igual, para mí fue bonito, porque yo te vi y me gustaste. Desde ese momento, todo fue escalando y cada vez me gustabas más y más. GRACIAS DIZCO.",
-        "imagen": "/imgs/dizco.jpeg"
+        lat: -12.1364463,
+        lon: -77.0174336,
+        titulo: "Dizco",
+        descripcion: "Mi amor, aquí nos conocimos. Sé que fue un poco raro y rápido sadjkjkasdk, pero igual, para mí fue bonito, porque yo te vi y me gustaste. Desde ese momento, todo fue escalando y cada vez me gustabas más y más. GRACIAS DIZCO.",
+        imagen: "/imgs/dizco.jpg"
     },
     {
-        "lat": -12.137995,
-        "lon": -76.997265,
-        "titulo": "Parque de tus regalitos",
-        "descripcion": "Mi amor, aunque tú no lo creas, cada regalito tuyo lo aprecio mucho. Que me des cositas me hace sentir muy bien. Veo tu esfuerzo y, en serio, valoro todo lo que haces por mí. Soy muy feliz contigo, preciosa.",
-        "imagen": "imgs/regalos.jpeg"
+        lat: -12.137995,
+        lon: -76.997265,
+        titulo: "Parque de tus regalitos",
+        descripcion: "Mi amor, aunque tú no lo creas, cada regalito tuyo lo aprecio mucho. Que me des cositas me hace sentir muy bien. Veo tu esfuerzo y, en serio, valoro todo lo que haces por mí. Soy muy feliz contigo, preciosa.",
+        imagen: "imgs/regalos.jpg"
     },
     {
-        "lat": -12.582931,
-        "lon": -76.647693,
-        "titulo": "Casa de playa",
-        "descripcion": "Mi Meli, solo para poder estar contigo hice cosas chistosas, sobre todo la forma en la que llegué a la casa, que ya sabes la historia, ajsdjkasdjk. Pero valió demasiado la pena solo para estar contigo y vivir ese día juntos, mi amor. No nos despegamos en todo el día, nos divertimos mucho, bailamos y dormimos. Todo ese día fue hermoso, pero no por lo que hice, sino porque lo que hice, lo hice contigo. Contigo todo es especial, mi amor, todo es mejor, y quiero vivir muchas más cosas parecidas y aún mejores contigo. <br><br> Mi amor, en serio, me gusta hacerte sentir bien, y tú también me haces sentir muy bien. Me haces muy feliz, me haces sentir querido, me haces bien en general. Quiero estar contigo, quiero que duremos muchísimo tiempo, quiero estar contigo a diario, quiero conocer cada partecita de tu vida. Meli, te quiero a ti. No, no te quiero, te adoro. En serio, te has ganado mi corazón. Eres una chica que vale totalmente la pena. Te adoro, mi princesa. <3",
-        "imagen": "imgs/CasaPlaya.jpeg"
+        lat: -12.582931,
+        lon: -76.647693,
+        titulo: "Casa de playa",
+        descripcion: "Mi Meli, solo para poder estar contigo hice cosas chistosas, sobre todo la forma en la que llegué a la casa, que ya sabes la historia, ajsdjkasdjk. Pero valió demasiado la pena solo para estar contigo y vivir ese día juntos, mi amor. No nos despegamos en todo el día, nos divertimos mucho, bailamos y dormimos. Todo ese día fue hermoso, pero no por lo que hice, sino porque lo que hice, lo hice contigo. Contigo todo es especial, mi amor, todo es mejor, y quiero vivir muchas más cosas parecidas y aún mejores contigo. <br><br> Mi amor, en serio, me gusta hacerte sentir bien, y tú también me haces sentir muy bien. Me haces muy feliz, me haces sentir querido, me haces bien en general. Quiero estar contigo, quiero que duremos muchísimo tiempo, quiero estar contigo a diario, quiero conocer cada partecita de tu vida. Meli, te quiero a ti. No, no te quiero, te adoro. En serio, te has ganado mi corazón. Eres una chica que vale totalmente la pena. Te adoro, mi princesa. <3",
+        imagen: "imgs/CasaPlaya.jpg"
     },
     {
-        "lat": -12.0971729,
-        "lon": -77.0026425,
-        "titulo": "Sweet 7",
-        "descripcion": "Vinimos aquí porque era una de las cosas que aún no habíamos hecho, y también fue la última vez que nos vimos hasta ahora. Amor, ese día me sentí de verdad muy triste porque me iba, pero pasar ese tiempito contigo me hizo muy bien. Hablamos y nos tomamos fotitos que me gustan mucho. <br><br> Mi amor, te juro que eres muy especial para mí, y eso no cambiará por nada del mundo. Te adoro, preciosa, y gracias por ser como eres. <3",
-        "imagen": "imgs/sweet72.jpeg"
+        lat: -12.0971729,
+        lon: -77.0026425,
+        titulo: "Sweet 7",
+        descripcion: "Vinimos aquí porque era una de las cosas que aún no habíamos hecho, y también fue la última vez que nos vimos hasta ahora. Amor, ese día me sentí de verdad muy triste porque me iba, pero pasar ese tiempito contigo me hizo muy bien. Hablamos y nos tomamos fotitos que me gustan mucho. <br><br> Mi amor, te juro que eres muy especial para mí, y eso no cambiará por nada del mundo. Te adoro, preciosa, y gracias por ser como eres. <3",
+        imagen: "imgs/sweet72.jpg"
     }
 ];
 
